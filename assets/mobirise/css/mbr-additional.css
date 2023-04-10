@@ -1932,6 +1932,9 @@ a {
   position: absolute;
   top: 0;
 }
+.cid-tyJ5eUQ9vT .mbr-section-subtitle {
+  text-align: left;
+}
 .cid-tz0Sni6dXo {
   padding-top: 0rem;
   padding-bottom: 0rem;
@@ -2933,7 +2936,7 @@ a {
   background-color: #ffffff;
 }
 .cid-tyJahZNbno .mbr-text {
-  text-align: center;
+  text-align: left;
 }
 .cid-tyJ8417rTG {
   padding-top: 0rem;
@@ -2992,6 +2995,7 @@ a {
 }
 .cid-tyK155z3tr .mbr-text {
   color: #000000;
+  text-align: left;
 }
 .cid-tyS1tevTh5 {
   padding-top: 0rem;
@@ -3031,6 +3035,9 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+}
+.cid-tyJ845vnQO .mbr-section-subtitle {
+  text-align: left;
 }
 .cid-tyQceyKvFg {
   padding-top: 0rem;
@@ -3174,6 +3181,9 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+}
+.cid-tyJ84dG83B .mbr-section-subtitle {
+  text-align: left;
 }
 .cid-tyWJlqJcLG {
   padding-top: 0rem;
@@ -3578,7 +3588,7 @@ a {
   text-align: left;
 }
 .cid-tzpelCBwSn {
-  padding-top: 1rem;
+  padding-top: 0rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
@@ -3638,6 +3648,9 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+}
+.cid-tzAw6HMqZu .mbr-section-subtitle {
+  text-align: center;
 }
 .cid-tzAA8Q2aVi {
   padding-top: 0rem;
@@ -3810,6 +3823,9 @@ a {
   position: absolute;
   top: 0;
 }
+.cid-tyJ84v33FR .mbr-section-subtitle {
+  text-align: left;
+}
 .cid-tz0D7dvsGM {
   padding-top: 0rem;
   padding-bottom: 1rem;
@@ -3843,15 +3859,15 @@ a {
     padding: 2rem;
   }
 }
-.cid-tzHuMQ4bwU {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+.cid-tB1Zhn3fQR {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
-.cid-tzHuMQ4bwU .mbr-fallback-image.disabled {
+.cid-tB1Zhn3fQR .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tzHuMQ4bwU .mbr-fallback-image {
+.cid-tB1Zhn3fQR .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -3861,15 +3877,18 @@ a {
   top: 0;
 }
 @media (max-width: 991px) {
-  .cid-tzHuMQ4bwU .image-wrapper {
+  .cid-tB1Zhn3fQR .image-wrapper {
     margin-bottom: 1rem;
   }
 }
-.cid-tzHuMQ4bwU img {
+.cid-tB1Zhn3fQR .row {
+  flex-direction: row-reverse;
+}
+.cid-tB1Zhn3fQR img {
   width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-tzHuMQ4bwU .text-wrapper {
+  .cid-tB1Zhn3fQR .text-wrapper {
     padding: 2rem;
   }
 }
