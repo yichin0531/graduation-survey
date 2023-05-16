@@ -2521,7 +2521,7 @@ a {
   background-color: #ffffff;
 }
 .cid-tz0ULQoTOJ {
-  padding-top: 1rem;
+  padding-top: 0rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
@@ -2553,6 +2553,9 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.cid-tz0ULQoTOJ .mbr-text {
+  text-align: left;
 }
 .cid-tyIYYdylsD {
   z-index: 1000;
